@@ -1,0 +1,5 @@
+{
+  "name": "OCREval Pro",
+  "description": "A high-performance evaluation dashboard comparing the latest OCR models (DeepSeek-OCR, MonkeyOCR, MinerU, PaddleOCR) with real-time visualization of accuracy, latency, and resource utilization.",
+  "requestFramePermissions": []
+}
